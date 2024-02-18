@@ -1,2 +1,0 @@
-# enermaenergy.github.io
-web
